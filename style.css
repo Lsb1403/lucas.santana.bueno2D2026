@@ -1,10 +1,10 @@
 body {
-    background-color:cornflowerblue;
+    background-color:rgb(0, 24, 69);
     color:black;
     font-family: Arial, sans-serif;
     margin:20px;
 }
-header { background-color:blue;
+header { background-color:rgb(0, 0, 0);
     padding:20px;
     border-radius:20px;
     text-align:center;
