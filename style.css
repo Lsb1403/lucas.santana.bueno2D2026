@@ -1,0 +1,22 @@
+body {
+    background-color:cornflowerblue;
+    color:black;
+    font-family: Arial, sans-serif;
+    margin:20px;
+}
+header { background-color:blue;
+    padding:20px;
+    border-radius:20px;
+    text-align:center;
+}
+nav { margin:15px 0; }
+
+main {
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius:20px;
+}
+footer {
+    margin-top: 20px;;
+    border-top: 1px solid #eee;
+    padding: 10px; }
