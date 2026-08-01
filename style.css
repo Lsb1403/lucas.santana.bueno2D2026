@@ -147,3 +147,10 @@ aside h3 {
 aside p {
     font-size: 0.95rem;
     color: var(--texto-secundario);}
+
+    article .subtitulo {
+    font-size: 1.05rem;
+    color: var(--texto-principal);
+    font-weight: 500;
+    margin: 0.8rem 0;
+}
